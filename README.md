@@ -17,10 +17,12 @@ The project presents a procedurally generated world populated with crystal-like 
 * **Classic Blinn–Phong Shading:** With texture wrapping and specular highlights.
 * **Physically Based Rendering (PBR):** Ground materials using Cook–Torrance BRDF with full PBR texture sets.
 <p align="center">
-   <img width="223" alt="normal_mapping" src="https://github.com/user-attachments/assets/ea92d30d-0906-4044-a5a5-56ddfc20c441" />
-   <img width="200" alt="height_map" src="https://github.com/user-attachments/assets/5a17a961-17ad-4d9c-b18e-3dd8bfab435c" />
-   <img width="200" alt="normal_mapping_lava" src="https://github.com/user-attachments/assets/ff1e09d8-79a2-4e50-9e3d-c9a4080ac346" />
-   <img width="218" alt="height_map_lava" src="https://github.com/user-attachments/assets/92568f98-09c0-4eca-bac9-2db96da79bb2" />
+   <img height="207" alt="normal_mapping" src="https://github.com/user-attachments/assets/ea92d30d-0906-4044-a5a5-56ddfc20c441" />
+   <img height="207" alt="height_map" src="https://github.com/user-attachments/assets/5a17a961-17ad-4d9c-b18e-3dd8bfab435c" />
+</p>
+<p align="center">
+   <img height="220" alt="normal_mapping_lava" src="https://github.com/user-attachments/assets/ff1e09d8-79a2-4e50-9e3d-c9a4080ac346" />
+   <img height="220" alt="height_map_lava" src="https://github.com/user-attachments/assets/92568f98-09c0-4eca-bac9-2db96da79bb2" />
 </p>
 
 * **Normal and Height Mapping:** Applied to all surfaces for added detail.
