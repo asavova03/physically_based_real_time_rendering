@@ -3,8 +3,8 @@
 This repository contains the project code and assets for a **real-time interactive 3D scene**.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d1d42d15-c54a-4fa0-a166-5e64961b63a3" alt="water" height="400"/>
-  <img height="400" alt="crystal_guy_no_glow" src="https://github.com/user-attachments/assets/16cb1fea-eb35-4a3d-9fc7-ac61be2725d3" />
+  <img src="https://github.com/user-attachments/assets/d1d42d15-c54a-4fa0-a166-5e64961b63a3" alt="water" height="300"/>
+  <img height="300" alt="crystal_guy_no_glow" src="https://github.com/user-attachments/assets/16cb1fea-eb35-4a3d-9fc7-ac61be2725d3" />
 
 </p>
 
@@ -27,9 +27,9 @@ The project presents a procedurally generated world populated with crystal-like 
 * **Environment Mapping:** Day, sunset, and universe HDRI backgrounds.
 
 <p align="center">
-   <img height="200" alt="sunset" src="https://github.com/user-attachments/assets/64990adf-0d59-4cbf-b29a-d9070ac63cdc" />
-   <img height="200" alt="day" src="https://github.com/user-attachments/assets/69d7a747-97c5-4fc8-865d-4d7ae7035531" />
-   <img height="200" alt="universe" src="https://github.com/user-attachments/assets/45e4f0d3-94cc-4a3f-a21c-204addd9fdd3" />
+   <img height="150" alt="sunset" src="https://github.com/user-attachments/assets/64990adf-0d59-4cbf-b29a-d9070ac63cdc" />
+   <img height="150" alt="day" src="https://github.com/user-attachments/assets/69d7a747-97c5-4fc8-865d-4d7ae7035531" />
+   <img height="150" alt="universe" src="https://github.com/user-attachments/assets/45e4f0d3-94cc-4a3f-a21c-204addd9fdd3" />
 
 </p>
 
@@ -89,10 +89,10 @@ The project presents a procedurally generated world populated with crystal-like 
 * **Shader for Refractive Translucent Materials** used for the player
 
 <p align="center">
-<img height="300" alt="crystal_guy" src="https://github.com/user-attachments/assets/f2a9ef39-4cce-4970-9ac5-3b0a309b544a" />
-<img height="300" alt="crystal_guy_high_ior" src="https://github.com/user-attachments/assets/0fe4de69-f440-4b84-8331-14eee5bb335b" />
-<img height="300" alt="crystal_guy_translucent" src="https://github.com/user-attachments/assets/e7b775ec-0406-4ade-a584-6213f2ed5815" />
-<img height="300" alt="crystal_guy_low_ior" src="https://github.com/user-attachments/assets/0c2781ef-e0c9-481e-9581-8eded837a2f3" />
+<img height="250" alt="crystal_guy" src="https://github.com/user-attachments/assets/f2a9ef39-4cce-4970-9ac5-3b0a309b544a" />
+<img height="250" alt="crystal_guy_high_ior" src="https://github.com/user-attachments/assets/0fe4de69-f440-4b84-8331-14eee5bb335b" />
+<img height="250" alt="crystal_guy_translucent" src="https://github.com/user-attachments/assets/e7b775ec-0406-4ade-a584-6213f2ed5815" />
+<img height="250" alt="crystal_guy_low_ior" src="https://github.com/user-attachments/assets/0c2781ef-e0c9-481e-9581-8eded837a2f3" />
 
 </p>
 
@@ -121,9 +121,8 @@ The project presents a procedurally generated world populated with crystal-like 
 
 ## References
 
-* LearnOpenGL tutorials for instancing, normal mapping, and IBL.
-* Mixamo animations for character walking.
-* Gerstner wave implementation inspired by research and online tutorials.
+* [LearnOpenGL](https://learnopengl.com/) tutorials for instancing, normal mapping, and IBL.
+* [Mixamo](https://www.mixamo.com/#/) animations for character walking.
 * PBR shading references from UE4 BRDF models and Physically Based Rendering lectures.
 
 ## License
