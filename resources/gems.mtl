@@ -1,0 +1,14 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Crystal_Amethyst
+Ns 463.900482
+Ka 0.291339 0.291339 0.291339
+Ks 1.000000 1.000000 1.000000
+Ni 1.450000
+d 0.795276
+illum 1
+# map_Kd textures/gems/crystals_emerald_color.png
+# map_Ke textures/gems/crystals_emerald_emission.png
+# map_d textures/gems/crystals_emerald_color.png
+# map_Bump -bm 1.000000 textures/gems/Emerald Geode A-Normal.png

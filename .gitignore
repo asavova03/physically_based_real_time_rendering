@@ -1,0 +1,13 @@
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+cmake-build-debug
+.idea
+*.user
+/build/
+/cmake-build-*/
+framework/
+#resources
+out
+*.zip

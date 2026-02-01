@@ -1,0 +1,13 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Amethyst_geode_B
+Ns 469.278931
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+# map_Kd uploads_files_3566715_Textures+2K/Textures 2K/Amethyst Geode B-Color.png
+# map_Ke uploads_files_3566715_Textures+2K/Textures 2K/Amethyst Geode B-Emmision.png
+# map_d uploads_files_3566715_Textures+2K/Textures 2K/Amethyst Geode B-Color.png
+# map_Bump -bm 1.000000 Amethyst Geode B-Normal.png
